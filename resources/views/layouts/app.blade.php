@@ -21,9 +21,9 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='css-0-css'  href="{{ asset('css/style.min.css') }}" type='text/css' media='all' />
+	<link rel='stylesheet' id='css-0-css'  href="{{ secure_asset('css/style.min.css') }}" type='text/css' media='all' />
 <link rel='stylesheet' id='leven-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic' type='text/css' media='all' />
-<script type='text/javascript' src='{{ asset('js/all.min.js') }}' id='js-1-js'></script>
+<script type='text/javascript' src='{{ secure_asset('js/all.min.js') }}' id='js-1-js'></script>
 
 <body class="home page-template-default page page-id-157 wp-embed-responsive masthead-fixed full-width grid">
 
@@ -104,7 +104,7 @@ img.emoji {
     </div>
 	</div>
     </div>
-	<script type='text/javascript' src='{{ asset('js') }}/d9f6956b-1619086408.min.js' id='js-2-js'></script>
+	<script type='text/javascript' src='{{ secure_asset('js') }}/d9f6956b-1619086408.min.js' id='js-2-js'></script>
 </body>
 
 </html>
