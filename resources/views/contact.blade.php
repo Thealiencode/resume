@@ -74,7 +74,7 @@
 		<div class="fields clearfix">
 			<div class="left-column">
 				<div class="form-group form-group-with-icon has-error has-danger">
-					<input id="form_name" type="text" name="name" class="form-control" placeholder="Full Name" required="required" >
+					<input id="form_name" type="text" name="name" class="form-control" placeholder="Full Name" required >
 					<div class="form-control-border"></div>
 				</div>
 
@@ -85,14 +85,14 @@
 				</div>
 
 				<div class="form-group form-group-with-icon">
-					<input id="form_name" type="text" name="subject" class="form-control" placeholder="Subject" required="required" data-error="Subject is required.">
+					<input id="form_name" type="text" name="subject" class="form-control" placeholder="Subject" required data-error="Subject is required.">
 					<div class="form-control-border"></div>
 					<div class="help-block with-errors"></div>
 				</div>
 			</div>
 			<div class="right-column">
 				<div class="form-group form-group-with-icon">
-					<textarea id="form_message" name="message" class="form-control" placeholder="Message" rows="7" required="required" data-error="Please, leave me a message."></textarea>
+					<textarea id="form_message" name="message" class="form-control" placeholder="Message" rows="7" required data-error="Please, leave me a message."></textarea>
 					<div class="form-control-border"></div>
 					<div class="help-block with-errors"></div>
 				</div>

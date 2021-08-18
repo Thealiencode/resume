@@ -86,7 +86,7 @@ img.emoji {
                             <a href="#" target="_blank">Twitter</a>
                         </li>
                                             <li>
-                            <a href="#" target="_blank">Facebook</a>
+                            <a href="hhtps://instagram.com/diary.of.moses" target="_blank">Facebook</a>
                         </li>
                                             <li>
                             <a href="#" target="_blank">Instagram</a>
