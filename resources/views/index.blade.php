@@ -249,7 +249,9 @@
 	</div><!-- .entry-content -->
 </article><!-- #post-## -->
             </div><!-- #content -->
-        </div><!-- #primary -->
+		</div><!-- #primary -->
+		
+		<img src="{{ secure_asset('images/hng-logo.png') }}">
     </div><!-- #main-content -->
 </div>
   
